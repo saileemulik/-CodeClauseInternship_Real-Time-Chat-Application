@@ -1,1 +1,1 @@
-# -CodeClauseInternship_Real_Time-Chat-Application
+# -CodeClauseInternship_Real-Time-Chat-Application
